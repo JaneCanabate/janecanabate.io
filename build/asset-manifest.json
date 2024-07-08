@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c5d0cf4.css",
+    "main.js": "/static/js/main.204a0800.js",
+    "static/js/453.3340c921.chunk.js": "/static/js/453.3340c921.chunk.js",
+    "static/media/bootstrap.png": "/static/media/bootstrap.4db6b405c36ee9e98d15.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/js.png": "/static/media/js.03cf8c903cb1f7dc9f9e.png",
+    "static/media/html5.png": "/static/media/html5.f209ef62cf88c3272c73.png",
+    "static/media/css.png": "/static/media/css.a3d2689f7e336d5d5359.png",
+    "static/media/profile.jpg": "/static/media/profile.5e24f7dfd260eb10ea7a.jpg",
+    "static/media/php.png": "/static/media/php.aed5cee0fe1995e37800.png",
+    "static/media/favicon.ico": "/static/media/favicon.4fe75d5f9adb18067b85.ico",
+    "index.html": "/index.html",
+    "main.4c5d0cf4.css.map": "/static/css/main.4c5d0cf4.css.map",
+    "main.204a0800.js.map": "/static/js/main.204a0800.js.map",
+    "453.3340c921.chunk.js.map": "/static/js/453.3340c921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5d0cf4.css",
+    "static/js/main.204a0800.js"
+  ]
+}
