@@ -27,7 +27,10 @@ function Home() {
                             <Nav.Link as={NavLink} to="/project" className="btn border border-primary hover-primary rounded-pill px-2 w-100">Project</Nav.Link>
                     </div>
                     <p className="text-justify">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut lacinia turpis. Sed lacinia, ligula et facilisis tincidunt, ex dui semper dui, id mollis mauris enim nec orci. Etiam vulputate augue sit amet bibendum interdum.
+                    I'm Jane C. Canabate 22 years old, taking Bachelor of Science in Information Technology at Central Philippines State University Main - Campus.
+                    I have always been passionate about playing chess and dancing, driven by a curiosity to understand how dancing and playing chess is fun until i made it passion. Throughout my academic journey, I have actively sought opportunities to show my ability and talent to everyone.
+                    Me and my team represented our brgy to represent in folkdancing competition with other barangay fortunate we got the 4th place in 32 barangays that perform.
+
                     </p>
                 </Card>
             </Container>

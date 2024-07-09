@@ -5,7 +5,7 @@ import stack3 from '../images/bootstrap.png';
 import stack4 from '../images/php.png';
 import stack5 from '../images/js.png';
 import stack6 from '../images/favicon.ico';
-import profile from '../images/profile.jpg';
+import profile from '..//images/joey.jpg';
 function About() {
     return(
         <div>
@@ -62,12 +62,13 @@ function About() {
                                                 <Image src={profile} fluid className='rounded-circle w-50' /> 
                                         </div>
                                         <div className="m-auto">
-                                                <h6 className="fw-bold">Sample Name Commentator</h6>
+                                                <h6 className="fw-bold">Joey B. Baroquinna</h6>
+                                                <h6 className="fw-bold">PHLpost ActingPost Master</h6>
                                         </div>
                                         </Col>
                                         <Col lg={12}>
                                             <p className="text-justify p-2">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut lacinia turpis. Sed lacinia, ligula et facilisis tincidunt, ex dui semper dui, id mollis mauris enim nec orci. Etiam vulputate augue sit amet bibendum interdum.
+                                            I can say that the office is lucky enough, to have her as an OJT students. Very Industrious, well manared, performs duties very well and a very responsible person. Hoping to have like her as OJT-Training in the near future.
                                             </p>
                                         </Col>
                                     </Row>
