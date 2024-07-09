@@ -213,3 +213,8 @@
 .w-lg-75 {
     width: 75% !important;
 }
+
+.max-xy {
+    max-width: 50% !important;
+    margin: auto !important;
+}
