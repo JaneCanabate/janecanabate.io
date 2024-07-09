@@ -13,7 +13,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Project from './pages/Project';
 import Experience from './pages/Experience';
-// import Contact from './pages/Contact';
+import Contact from './pages/Contact';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -24,7 +24,7 @@ root.render(
                 <Route path="about" element={<About />} />
                 <Route path="project" element={<Project />} />
                 <Route path="experience" element={<Experience />} />
-                {/* <Route path="contact" element={<Contact />} /> */}
+                <Route path="contact" element={<Contact />} />
             </Route> 
         </Routes>
     </BrowserRouter>

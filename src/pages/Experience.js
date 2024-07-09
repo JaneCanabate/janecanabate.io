@@ -22,7 +22,7 @@ function Experience() {
                             <Row lg={2} xs={1}>
                                 <Col className="radius-0 m-auto">
                                     <div className="overflow-hidden p-2 p-lg-4 d-flex justify-content-center">
-                                        <Image src={experience} fluid className="zoom" />
+                                        <Image src={experience} fluid className="zoom object-fit-cover" />
                                     </div>
                                 </Col>
                                 <Col className="radius-0 m-auto text-justify ps-lg-0 pe-lg-4">
