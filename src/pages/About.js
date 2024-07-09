@@ -56,11 +56,13 @@ function About() {
                             <Col>
                                 <Card className="zero text-justify p-2 border-0 shadow radius-0">
                                     <Card.Title className="py-3 fw-bold">Recommendation</Card.Title>
-                                    <Row lg={1} xs={1}>
-                                        <Col lg={5} className="d-flex">
+                                    <Row lg={2} xs={1}>
+                                        <Col lg={2} className="d-flex">
                                         <div className="m-auto w-100 zero">
-                                                <Image src={profile} fluid className='rounded-circle w-50' /> 
+                                                <Image src={profile} fluid className='rounded-circle w-100' /> 
                                         </div>
+                                        </Col>
+                                        <Col className="my-lg-auto">
                                         <div className="m-auto">
                                                 <h6 className="fw-bold">Joey B. Baroquinna</h6>
                                                 <h6 className="fw-bold">PHLpost ActingPost Master</h6>
