@@ -197,3 +197,19 @@
     border-left: 0 !important;
     border-bottom: 0 !important;
 }
+
+.border-x {
+    height: 100px !important;
+    border-left: 5px solid #0050FF !important;
+    border-top: 0 !important;
+    border-right: 5px solid #0050FF !important;
+    border-bottom: 0 !important;
+}
+
+.w-lg-50 {
+    width: 50% !important;
+}
+
+.w-lg-75 {
+    width: 75% !important;
+}
